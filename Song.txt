@@ -2,7 +2,7 @@ Sword and spear
 Wall of shields
 standing strong
 on this their chosen battle field
-
+git 
 Form the lines
 Shield by shield
 Side by side
@@ -12,4 +12,6 @@ March as one
 Don't look back
 Oden's sons
 Attack!
+
+for tag only
 
